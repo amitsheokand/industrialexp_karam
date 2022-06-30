@@ -12,3 +12,9 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+*.DS_Store
+Content/Maps/karam_BuiltData.uasset
+Content/Maps/Init_BuiltData.uasset
+Content/Maps/ArrestoMaterialLifting_BuiltData.uasset
+Content/Maps/Init_BuiltData.uasset
+Content/Maps/karam_BuiltData.uasset
