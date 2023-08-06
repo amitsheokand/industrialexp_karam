@@ -3,8 +3,21 @@
 	"EngineAssociation": "4.27",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "OculusVR",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win32",
+				"Win64",
+				"Android"
+			]
+		}
+	],
 	"TargetPlatforms": [
 		"PS4",
-		"WindowsNoEditor"
+		"WindowsNoEditor",
+		"Android",
+		"WindowsNoEditorWin32"
 	]
 }
